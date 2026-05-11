@@ -1,11 +1,7 @@
-<h2 align="left">Demian / 윤강혁</h2>
+<h2 align="left">Demian</h2>
 
 <p align="left">
   Building quiet systems for knowledge, thought, and life records in the AI era.
-</p>
-
-<p align="left">
-  AI와 웹 기술로 지식, 생각, 삶의 기록을 구조화하는 서비스를 만듭니다.
 </p>
 
 ---
@@ -73,15 +69,6 @@ Dechive is where I keep those questions.
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
 </p>
-
----
-
-### GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aprasaks&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="120" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aprasaks&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="120" alt="Top languages" />
-</div>
 
 ---
 

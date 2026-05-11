@@ -1,53 +1,100 @@
-<h2 align="left">👋🏻Hello<br>💻I'm not a developer yet, <br>📚But I'm studying hard <br>🖥️Dreaming of becoming one.</h2>
+<h2 align="left">Demian / 윤강혁</h2>
 
-###
+<p align="left">
+  Building quiet systems for knowledge, thought, and life records in the AI era.
+</p>
 
-<br clear="both">
+<p align="left">
+  AI와 웹 기술로 지식, 생각, 삶의 기록을 구조화하는 서비스를 만듭니다.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aprasaks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aprasaks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="100" alt="languages graph"  />
+---
+
+### What I’m building
+
+#### Dechive
+
+**A quiet knowledge library where thoughts stay.**
+
+Dechive is a personal knowledge library for short conceptual notes about AI, Data, Dev, Product, and Tools.
+
+It is not a normal tech blog or tutorial site.  
+Each note is written like a small book that answers one question.
+
+- Archive: https://dechive.dev
+- Selected note: [SQL NULL is not an empty value](https://dechive.dev/en/archive/what-null-leaves-behind)
+- Selected note: [Before Asking AI for Answers, Hand Over Your Thinking](https://dechive.dev/en/archive/handing-over-thought-first)
+
+#### Akashic
+
+**An AI assistant concept for recording, storing, and analyzing a person’s life.**
+
+If Dechive is a way to read knowledge,  
+Akashic is a way to read a life.
+
+Status: Concept / Planning
+
+---
+
+### What I pursue
+
+I am interested in building systems that help people preserve, organize, and revisit knowledge.
+
+Trends move quickly, but the questions behind them often remain.  
+I care less about chasing every new tool and more about understanding why a tool matters, what it changes, and how it shapes the way we think.
+
+Dechive is where I keep those questions.
+
+---
+
+### Current interests
+
+- AI and prompting
+- Personal knowledge systems
+- Web development
+- Data and analytics
+- Product thinking
+- Life archive systems
+
+---
+
+### Tech I use
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
+</p>
+
+---
+
+### GitHub
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aprasaks&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="120" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aprasaks&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="120" alt="Top languages" />
 </div>
 
-###
+---
 
-<br clear="both">
+### Links
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFlaXYwaTY3dGNmbGc5NWZhZGhoMjF0aXB4NTNjeWdwcjRua3hlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0DAI5cmkj0rYbwgo/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="29" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="29" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="29" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="29" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="29" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="29" alt="codepen logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aprasaks/Aprasaks/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aprasaks/Aprasaks/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tAprasaks/Aprasaks/output/github-snake.svg" />
-</picture>
+<p align="left">
+  <a href="https://dechive.dev">
+    <img src="https://img.shields.io/badge/Dechive-0a0805?style=for-the-badge&logo=readme&logoColor=d7ae68" alt="Dechive" />
+  </a>
+  <a href="https://github.com/Aprasaks">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:heavenis0113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-3b2a16?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>

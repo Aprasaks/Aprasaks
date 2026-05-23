@@ -1,7 +1,7 @@
 <h2 align="left">Demian</h2>
 
 <p align="left">
-  Building quiet systems for knowledge, thought, and life records in the AI era.
+  Building quiet systems for AI verification, knowledge records, and human judgment in the AI era.
 </p>
 
 ---
@@ -10,23 +10,27 @@
 
 #### Dechive
 
-**A quiet knowledge library where thoughts stay.**
+**AI creates answers. Dechive verifies them.**
 
-Dechive is a personal knowledge library for short conceptual notes about AI, Data, Dev, Product, and Tools.
+Dechive is an AI verification archive for understanding, questioning, and checking AI-generated answers before we trust them.
 
-It is not a normal tech blog or tutorial site.  
-Each note is written like a small book that answers one question.
+It is not a normal tech blog, tutorial site, or AI tool directory.  
+Each record begins with one question and follows the reasoning needed to make the answer more trustworthy.
+
+Dechive focuses on AI literacy, hallucination, prompting, RAG, product thinking, and the human judgment that remains after automation.
 
 - Archive: https://dechive.dev
-- Selected note: [SQL NULL is not an empty value](https://dechive.dev/en/archive/what-null-leaves-behind)
+- English Archive: https://dechive.dev/en/archive
+- Downloads: https://dechive.dev/downloads
 - Selected note: [Before Asking AI for Answers, Hand Over Your Thinking](https://dechive.dev/en/archive/handing-over-thought-first)
+- Selected note: [SQL NULL is not an empty value](https://dechive.dev/en/archive/what-null-leaves-behind)
 
 #### Akashic
 
 **An AI assistant concept for recording, storing, and analyzing a person’s life.**
 
-If Dechive is a way to read knowledge,  
-Akashic is a way to read a life.
+If Dechive is a way to verify knowledge,  
+Akashic is a way to remember and interpret a life.
 
 Status: Concept / Planning
 
@@ -34,10 +38,10 @@ Status: Concept / Planning
 
 ### What I pursue
 
-I am interested in building systems that help people preserve, organize, and revisit knowledge.
+I am interested in building systems that help people slow down, verify information, and preserve the reasoning behind their decisions.
 
-Trends move quickly, but the questions behind them often remain.  
-I care less about chasing every new tool and more about understanding why a tool matters, what it changes, and how it shapes the way we think.
+AI can generate answers faster than ever, but speed does not make an answer trustworthy.  
+I care less about chasing every new tool and more about understanding what a tool changes, where it fails, and how humans should decide what to trust.
 
 Dechive is where I keep those questions.
 
@@ -45,12 +49,14 @@ Dechive is where I keep those questions.
 
 ### Current interests
 
-- AI and prompting
+- AI verification
+- AI literacy
+- Prompting and hallucination
+- RAG and retrieval systems
 - Personal knowledge systems
 - Web development
-- Data and analytics
 - Product thinking
-- Life archive systems
+- Digital archives
 
 ---
 
@@ -77,6 +83,24 @@ Dechive is where I keep those questions.
 <p align="left">
   <a href="https://dechive.dev">
     <img src="https://img.shields.io/badge/Dechive-0a0805?style=for-the-badge&logo=readme&logoColor=d7ae68" alt="Dechive" />
+  </a>
+  <a href="https://dechive.hashnode.dev">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+  <a href="https://dev.to/dechive">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" />
+  </a>
+  <a href="https://medium.com/@dechive">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://coderlegion.com">
+    <img src="https://img.shields.io/badge/Coder%20Legion-1f1f1f?style=for-the-badge&logo=codeforces&logoColor=d7ae68" alt="Coder Legion" />
+  </a>
+  <a href="https://x.com/dechivelab">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/dechive.lab">
+    <img src="https://img.shields.io/badge/Instagram-3b2a16?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/Aprasaks">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

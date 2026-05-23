@@ -93,7 +93,7 @@ Dechive is where I keep those questions.
   <a href="https://medium.com/@dechive">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://coderlegion.com">
+  <a href="https://coderlegion.com](https://coderlegion.com/user/Dechive">
     <img src="https://img.shields.io/badge/Coder%20Legion-1f1f1f?style=for-the-badge&logo=codeforces&logoColor=d7ae68" alt="Coder Legion" />
   </a>
   <a href="https://x.com/dechivelab">

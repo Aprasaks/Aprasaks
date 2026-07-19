@@ -1,0 +1,14 @@
+{
+  "github_username": "Aprasaks",
+  "display_name": "Demian",
+  "site_url": "https://dechive.dev",
+  "tagline": "AI creates answers. Humans verify them.",
+  "days": 126,
+  "latest_record_fallback": "Dechive profile engine initialized",
+  "animation": {
+    "frames": 60,
+    "frame_duration_ms": 90,
+    "width": 1200,
+    "height": 340
+  }
+}

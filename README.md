@@ -44,7 +44,7 @@
 - 5단계 정보 검증 상태 설계
 
 [Repository](https://github.com/Aprasaks/gunsan-com) ·
-[Live](https://gunsan-com.vercel.app)
+[Live · 군산.com](https://xn--6e0b287a.com)
 
 ---
 
